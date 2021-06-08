@@ -1,5 +1,5 @@
 # MP3Convertor
-Convert any audio file to MP3
+Convert any audio file to MP3 using FFMPEG
 
 # USAGE
 - Run the application
